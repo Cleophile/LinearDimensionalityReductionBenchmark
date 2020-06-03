@@ -1,6 +1,7 @@
 # Linear Dimensionality Reduction Benchmark
 
 ## Random Number Generation
+`gen_corr_dta(N,d,r,left_ratio,right_ratio)`, in `gen_corr_dta.m`  
 
 ## Algorithm Code List
 
